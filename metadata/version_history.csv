@@ -1,0 +1,4 @@
+dir,author_name,author_email,date,message
+v1,Me,me@example.com,05/04/2011 04:30:00,"First commit|First commit description|and so on"
+v2,He,he@example.com,05/11/2013 09:10:00,"Second commit"
+v3,Me,me@example.com,08/27/2018 10:30:00,"Third commit"
